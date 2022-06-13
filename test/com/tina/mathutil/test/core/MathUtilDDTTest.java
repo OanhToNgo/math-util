@@ -29,8 +29,8 @@ public class MathUtilDDTTest {
                                 {2,2},
                                 {3,6},
                                 {4,24},
-                                {5,120}, 
-                                {6,120}
+                                {5,120} 
+                                
         };
     }
     //gia su loop qua tung dong cua mang, ta van can gam tung value cua cot vao bien tuong ung input, expected de lat hoi feed cho ham
